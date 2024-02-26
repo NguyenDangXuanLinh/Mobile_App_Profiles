@@ -5,6 +5,19 @@ Our aim in this project is to find mobile app profiles that are profitable for t
 # Problem Statement
 At our company, we only build apps that are free to download and install, and our main source of revenue consists of in-apps ads. This means that our revenue for any given apps is mostly influenced by the number of users use our apps. Our goal of this project is to analyze data to help our developers understand what kinds of apps are more likely to attract more customers.
 
+# Key Insights
+1. Turning popular books (and more recent books) into an app could be profitable for both the Google Play and the App Store markets.
+
+2. The markets are already full of libraries, so we need to add some special features besides the raw version of the book:
+
+a. Daily quotes form the book
+
+b. An audio version of the books
+
+c. Quizzes on the books
+
+d. A forum where people can discuss the book
+
 # Python skills 
 
 Open and explore the data
