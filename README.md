@@ -10,13 +10,13 @@ At our company, we only build apps that are free to download and install, and ou
 
 2. The markets are already full of libraries, so we need to add some special features besides the raw version of the book:
 
-a. Daily quotes form the book
+  +  Daily quotes form the book
 
-b. An audio version of the books
+  -  An audio version of the books
 
-c. Quizzes on the books
+  -  Quizzes on the books
 
-d. A forum where people can discuss the book
+  -  A forum where people can discuss the book
 
 # Python skills 
 
